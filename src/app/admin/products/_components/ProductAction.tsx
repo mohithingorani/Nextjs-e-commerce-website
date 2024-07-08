@@ -28,7 +28,7 @@ export function DeleteDropdown({ id, disable }: { id: string, disable: boolean }
         onClick={() => {
             startTransition(async () => {
                 await deleteProduct(id)
-                router.refresh()
+                router.refresh( )
             })
         }}>
             Delete
