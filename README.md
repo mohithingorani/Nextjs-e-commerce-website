@@ -33,8 +33,8 @@ This is a fully functional e-commerce application built with Next.js. It include
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/nextjs-ecommerce.git
-    cd nextjs-ecommerce
+    git clone https://github.com/mohithingorani/Nextjs-e-commerce-website
+    cd nextjs-e-commerce-website
     ```
 
 2. Install dependencies:
