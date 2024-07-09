@@ -22,12 +22,11 @@ This is a fully functional e-commerce application built with Next.js. It include
 - Type-safe codebase using TypeScript
 
 ## Tech Stack
-- **Frontend:** Next.js, React, Tailwind CSS
+- **Frontend:** Next.js, React, Tailwind CSS, shadcn/ui
 - **Backend:** Node.js, Express
 - **Database:** PostgreSQL
 - **ORM:** Prisma
-- **State Management:** Recoil/Zustand (if applicable)
-- **Authentication:** NextAuth.js (if applicable)
+- **Authentication:** NextAuth.js 
 - **Hosting:** Vercel (or your preferred hosting service)
 
 ## Installation
